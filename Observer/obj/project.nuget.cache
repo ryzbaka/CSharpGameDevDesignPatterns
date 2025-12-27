@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5ZVVOX/R1E=",
+  "success": true,
+  "projectFilePath": "/home/rasterbunny/csharp_sandbox/Observer/Observer.csproj",
+  "expectedPackageFiles": [
+    "/home/rasterbunny/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

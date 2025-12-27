@@ -1,0 +1,14 @@
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/Observer.AssemblyInfoInputs.cache
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/Observer.AssemblyInfo.cs
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/Observer.csproj.CoreCompileInputs.cache
+/home/rasterbunny/csharp_sandbox/Observer/bin/Debug/net10.0/Observer
+/home/rasterbunny/csharp_sandbox/Observer/bin/Debug/net10.0/Observer.deps.json
+/home/rasterbunny/csharp_sandbox/Observer/bin/Debug/net10.0/Observer.runtimeconfig.json
+/home/rasterbunny/csharp_sandbox/Observer/bin/Debug/net10.0/Observer.dll
+/home/rasterbunny/csharp_sandbox/Observer/bin/Debug/net10.0/Observer.pdb
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/Observer.dll
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/refint/Observer.dll
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/Observer.pdb
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/Observer.genruntimeconfig.cache
+/home/rasterbunny/csharp_sandbox/Observer/obj/Debug/net10.0/ref/Observer.dll
