@@ -1,0 +1,14 @@
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/OOP.AssemblyInfoInputs.cache
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/OOP.AssemblyInfo.cs
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/OOP.csproj.CoreCompileInputs.cache
+/home/rasterbunny/csharp_sandbox/OOP/bin/Debug/net10.0/OOP
+/home/rasterbunny/csharp_sandbox/OOP/bin/Debug/net10.0/OOP.deps.json
+/home/rasterbunny/csharp_sandbox/OOP/bin/Debug/net10.0/OOP.runtimeconfig.json
+/home/rasterbunny/csharp_sandbox/OOP/bin/Debug/net10.0/OOP.dll
+/home/rasterbunny/csharp_sandbox/OOP/bin/Debug/net10.0/OOP.pdb
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/OOP.dll
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/refint/OOP.dll
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/OOP.pdb
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/OOP.genruntimeconfig.cache
+/home/rasterbunny/csharp_sandbox/OOP/obj/Debug/net10.0/ref/OOP.dll
